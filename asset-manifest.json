@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "reactApp/static/css/main.85790808.css",
-    "main.js": "reactApp/static/js/main.71744112.js",
+    "main.css": "/static/css/main.85790808.css",
+    "main.js": "/static/js/main.71744112.js",
     "index.html": "/index.html",
     "main.85790808.css.map": "/static/css/main.85790808.css.map",
     "main.71744112.js.map": "/static/js/main.71744112.js.map"
